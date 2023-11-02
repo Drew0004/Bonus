@@ -75,6 +75,10 @@ ul{
 
 }
 
+.button-align > .button{
+    margin: 0 15px;
+}
+
 .link > ul > li > a{
     text-decoration: none;
     color: white;
@@ -315,6 +319,12 @@ ul{
     margin-top: 15px;
     margin-bottom: 40px;
     /* importante (spaziatura verticale box main)*/
+}
+
+.aquabar > .button{
+    border-radius: 25px;
+    padding: 15px;
+
 }
 
 .col > ul > li{
